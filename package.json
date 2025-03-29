@@ -1,0 +1,20 @@
+{
+  "name": "listas-node",
+  "version": "1.0.0",
+  "description": "José Ferando Pérez Sipaque\r 7690-18-24917",
+  "main": "listaEnlazada.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jperezs30/listas-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jperezs30/listas-node/issues"
+  },
+  "homepage": "https://github.com/jperezs30/listas-node#readme"
+}
